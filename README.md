@@ -55,4 +55,8 @@ curl -X POST "http://127.0.0.1:8000/analyze" \
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]<img width="1915" height="1017" alt="Api1" src="https://github.com/user-attachments/assets/7e3bd740-fb8e-4584-bbfc-7238450660cc" />
+<img width="1918" height="1015" alt="api2" src="https://github.com/user-attachments/assets/d5f3add4-f6fe-4cb3-a874-ad9cbe847520" />
+
+
+
